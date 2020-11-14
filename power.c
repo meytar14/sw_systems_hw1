@@ -1,8 +1,7 @@
 #include "myMath.h"
 double Exponent(int x) 
 {
-    return power(E,x);
-    /*
+    
  double exp=1;
  if(x>0)
  {
@@ -20,7 +19,7 @@ double Exponent(int x)
   }
      exp=1/exp;
  }
-  return exp;*/
+  return exp;
 }
 
 double Power(double x , int y)
